@@ -1,4 +1,4 @@
-package com.gaurav.petclinic.entity;
+package com.gaurav.petclinic.model;
 
 public class PetType {
 
